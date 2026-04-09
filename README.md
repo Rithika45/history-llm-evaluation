@@ -70,15 +70,6 @@ The dataset is built using structured templates to evaluate:
 
 ---
 
-## How to Run
-
-```bash
-pip install -r requirements.txt
-python scripts/evaluate_openai.py
-```
-
----
-
 ## Notes
 
 Full dataset and additional results available upon request.
