@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# Hydra outputs
+outputs/
+multirun/
+
+# Logs
+*.log
+
+# Temp files
+*.tmp
+
+# Zips
+*.zip
+
+# Excel temp
+~$*.xlsx

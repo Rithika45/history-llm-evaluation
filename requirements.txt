@@ -1,0 +1,5 @@
+ollama
+openpyxl
+langchain-openai
+hydra-core
+omegaconf
